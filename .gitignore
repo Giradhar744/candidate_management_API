@@ -1,0 +1,4 @@
+.env
+myenv/
+candidates.db
+__pycache__/
